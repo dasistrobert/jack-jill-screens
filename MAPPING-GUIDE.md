@@ -3,25 +3,25 @@
 ## Candidate Screens
 | Frame Name | Optimized File | Original | Notes |
 |-----------|---------------|----------|-------|
-| 000001 | candidate-000001.png | Jack&Jill-Screen-000001.png | 1440x8482 (from 1920x11309) |
+| 000001 | candidate-000001.png | Jack&Jill-Screen-000001.png | 1440x4096 (from 1920x11309) |
 | 000002 | candidate-000002.png | Jack&Jill-Screen-000002.png | 1440x2626 (from 1911x3485) |
 | 000003 | candidate-000003.png | Jack&Jill-Screen-000003.png | 1440x2071 (from 1916x2756) |
 | 000005 | candidate-000005.png | Jack&Jill-Screen-000005.png | 1440x744 (from 1919x992) |
 | 000006 | candidate-000006.png | Jack&Jill-Screen-000006.png | 1440x741 (from 1919x988) |
-| 000007 | candidate-000007.png | Jack&Jill-Screen-000007.png | 1440x5983 (from 1914x7953) |
+| 000007 | candidate-000007.png | Jack&Jill-Screen-000007.png | 1440x4096 (from 1914x7953) |
 | 000008 | candidate-000008.png | Jack&Jill-Screen-000008.png | 1440x744 (from 1913x988) |
 | 000009 | candidate-000009.png | Jack&Jill-Screen-000009.png | 1440x2982 (from 1911x3958) |
-| 000010 | candidate-000010.png | Jack&Jill-Screen-000010.png | 1440x8226 (from 1916x10945) |
+| 000010 | candidate-000010.png | Jack&Jill-Screen-000010.png | 1440x4096 (from 1916x10945) |
 | 000011 | candidate-000011.png | Jack&Jill-Screen-000011.png | 1440x2888 (from 1909x3828) |
 | 000012 | candidate-000012.png | Jack&Jill-Screen-000012.png | 1440x2631 (from 1912x3493) |
 | 000013 | candidate-000013.png | Jack&Jill-Screen-000013.png | 1440x1703 (from 1917x2267) |
-| 000014 | candidate-000014.png | Jack&Jill-Screen-000014.png | 1440x5475 (from 1914x7277) |
-| 000015 | candidate-000015.png | Jack&Jill-Screen-000015.png | 1440x5489 (from 1900x7242) |
-| 000016 | candidate-000016.png | Jack&Jill-Screen-000016.png | 1440x4982 (from 1911x6611) |
-| 000017 | candidate-000017.png | Jack&Jill-Screen-000017.png | 1440x5486 (from 1909x7273) |
-| 000018 | candidate-000018.png | Jack&Jill-Screen-000018.png | 1440x5457 (from 1913x7249) |
-| 000019 | candidate-000019.png | Jack&Jill-Screen-000019.png | 1440x6196 (from 1911x8222) |
-| 000020 | candidate-000020.png | Jack&Jill-Screen-000020.png | 1440x5979 (from 1911x7935) |
+| 000014 | candidate-000014.png | Jack&Jill-Screen-000014.png | 1440x4096 (from 1914x7277) |
+| 000015 | candidate-000015.png | Jack&Jill-Screen-000015.png | 1440x4096 (from 1900x7242) |
+| 000016 | candidate-000016.png | Jack&Jill-Screen-000016.png | 1440x4096 (from 1911x6611) |
+| 000017 | candidate-000017.png | Jack&Jill-Screen-000017.png | 1440x4096 (from 1909x7273) |
+| 000018 | candidate-000018.png | Jack&Jill-Screen-000018.png | 1440x4096 (from 1913x7249) |
+| 000019 | candidate-000019.png | Jack&Jill-Screen-000019.png | 1440x4096 (from 1911x8222) |
+| 000020 | candidate-000020.png | Jack&Jill-Screen-000020.png | 1440x4096 (from 1911x7935) |
 | 000021 | candidate-000021.png | Jack&Jill-Screen-000021.png | 1440x1465 (from 1910x1943) |
 | 000022 | candidate-000022.png | Jack&Jill-Screen-000022.png | 1440x1803 (from 1912x2394) |
 | 000023 | candidate-000023.png | Jack&Jill-Screen-000023.png | 1440x744 (from 1915x989) |
